@@ -2,13 +2,13 @@
 Repositorio para las tareas del equipo
 
 a) Listar compute engine: 
- ```gcloud compute instances list```
+ _```gcloud compute instances list```_
 
 b) Listar Ip's en uso, existentes o reservadas
-```gcloud compute addresses list```
+_```gcloud compute addresses list```_
 
 c) Listar buckets disponibles
-```gsutil ls```
+_```gsutil ls```_
 
 URLS referencias:
 *https://cloud.google.com/sdk/gcloud/reference/compute/instances/list
