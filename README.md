@@ -11,6 +11,7 @@ c) Listar buckets disponibles
 _```gsutil ls```_
 
 URLS referencias:
-*https://cloud.google.com/sdk/gcloud/reference/compute/instances/list
-*https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list
-*https://cloud.google.com/storage/docs/gsutil?hl=es-419
+
+* https://cloud.google.com/sdk/gcloud/reference/compute/instances/list
+* https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list
+* https://cloud.google.com/storage/docs/gsutil?hl=es-419
