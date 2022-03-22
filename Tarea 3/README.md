@@ -1,21 +1,10 @@
-# JuntosPeroNoRevueltos-tareas
-Repositorio para las tareas del equipo
-
-a) Listar compute engine
-
- _```gcloud compute instances list```_
-
-b) Listar Ip's en uso, existentes o reservadas
-
-_```gcloud compute addresses list```_
-
-c) Listar buckets disponibles
-
-_```gsutil ls```_
-
-d) Listar Service Accounts existentes en un proyecto
-
-_```gcloud projects get-iam-policy my-project --format json > ~/policy.json```_
+## Tarea 3
+Descripcion | Comando
+|---:|:---|
+Listar compute engine | _```gcloud compute instances list```_
+Listar Ip's en uso, existentes o reservadas | _```gcloud compute addresses list```_
+Listar buckets disponibles | _```gsutil ls```_
+Listar Service Accounts existentes en un proyecto | _```gcloud projects get-iam-policy my-project --format json > ~/policy.json```_
 
 ## URLS referencias:
 
