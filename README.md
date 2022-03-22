@@ -13,10 +13,13 @@ c) Listar buckets disponibles
 
 _```gsutil ls```_
 
-d) Listar Service Accounts existemtes en un proyecto
+d) Listar Service Accounts existentes en un proyecto
+
+_```gcloud projects get-iam-policy my-project --format json > ~/policy.json```_
 
 ## URLS referencias:
 
 * https://cloud.google.com/sdk/gcloud/reference/compute/instances/list
 * https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list
 * https://cloud.google.com/storage/docs/gsutil?hl=es-419
+* https://cloud.google.com/iam/docs/granting-changing-revoking-access?hl=es-419
