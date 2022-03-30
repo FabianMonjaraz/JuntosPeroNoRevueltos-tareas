@@ -1,6 +1,6 @@
 # Tarea 4
 ### David Fabian Monjaraz Flores
-|Proceso|Descripcion|
+|*Proceso*|*Descripcion*|
 |:---:|---:|
 |Creacion de FS|Debido a lo repetitivo de la tarea y al riesgo de hacerla de forma equivocada, esta tarea podria considerarse para ser automatizada.|
 |Verificacion de espacio en FS|Si bien la tarea de liberar espacio en un FS sigue siendo mejor aplicarse manualmente, hallar los archivos que ocupan mas espacio, Verificar la utilizacion de inodes o incluso verificar si algun archivo esta eliminado pero sigue siendo utilizado por algun proceso|
