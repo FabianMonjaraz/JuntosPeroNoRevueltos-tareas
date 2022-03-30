@@ -10,3 +10,13 @@
 - [x] Al final, añadir las URLs de las cuales obtuvieron la informacion
 
 **Opcional:** Si no encuentran el comando, pueden mostrar capturas de pantalla de la consola y adjuntarlas en el README. Pueden apoyarse de alguien que ya tenga cuenta habilitada en GCP.
+
+----
+## Tarea 4
+Título principal: Tarea 4
+
+Subtítulo: Nombre de integrante del equipo. 
+
+Contenido por cada subtítulo: Lista de procesos que realicen diario que consideren que son susceptibles a automatizar. Es una lista por persona y la calificación esta vez será por persona, no por equipo. 
+
+Consejo: Todos los procesos manuales que sean repetitivos son los que tienen más probabilidad de poder ser automatizados.
