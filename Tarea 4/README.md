@@ -1,0 +1,15 @@
+# Tarea 4
+> Título principal: Tarea 4
+> 
+> Subtítulo: Nombre de integrante del equipo. 
+> 
+> Contenido por cada subtítulo: Lista de procesos que realicen diario que consideren que son susceptibles a automatizar. Es una lista por persona y la calificación esta vez será por persona, no por equipo. 
+> 
+> Consejo: Todos los procesos manuales que sean repetitivos son los que tienen más probabilidad de poder ser automatizados.
+### David Fabian Monjaraz Flores
+|Proceso|Descripcion|
+|:---:|---:|
+|Creacion de FS|Debido a lo repetitivo de la tarea y al riesgo de hacerla de forma equivocada, esta tarea podria considerarse para ser automatizada.|
+|Verificacion de espacio en FS|Si bien la tarea de liberar espacio en un FS sigue siendo mejor aplicarse manualmente, hallar los archivos que ocupan mas espacio, Verificar la utilizacion de inodes o incluso verificar si algun archivo esta eliminado pero sigue siendo utilizado por algun proceso|
+|Validacion de logrotate|Aunque crear los archivos de configuracion es algo relativamente sencillo, este procesos seria mas enfocado a hacer troubleshooting de los sistemas que no esten rotando los logs. Agregar tambien de una forma mas eficientes al logrotate aquellos logs que se tengan identificados que son propensos a llenarse o incluso a eliminar aquellos logs rotados que no se eliminan despues de cierto tiempo|
+|Verificacion de estado de inventarios|Para verificar si un equipo aun se encuentra activo y si cumple con los requerimientos esperados|
